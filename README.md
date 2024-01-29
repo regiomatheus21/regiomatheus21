@@ -8,7 +8,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 <h3><i>About Me</i></h3>
 
-- Studying computer engineering at Federal Rural University of Semiarid.
+- Computer engineering at Federal Rural University of Semiarid.
 - Software Engineer developer at Xmod.
 - Software Engineer developer at Acelerabit.
 - Learning more about Java Spring Boot Cloud Native.
