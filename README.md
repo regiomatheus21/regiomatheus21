@@ -39,7 +39,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## Find me elsewhere👇
 <p align="center">
-<a href="https://https://www.linkedin.com/in/regio-matheus-java/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Régio%20Matheus%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="linkedin.com/in/regio-matheus-java"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Régio%20Matheus%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/regio.mateus/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Régio Matheus-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:emmanuel_costasilva@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-regio.pimentel2016@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
