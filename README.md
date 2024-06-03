@@ -1,14 +1,13 @@
 ## Oiii eu sou Régio Matheus. Engenheiro de Software Backend Java Spring Boot!
 <p>
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/9b4dc87f022b2af14ed935b4de91f272e6e687a9b3d122ffdf3fcb3208189a48/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966" width="500" height="320"/>
+Hi there 
 </p>
 
 ## **"There is no elevator to success, you have to take the stairs"** 👨‍💻
 
 <h3><i>About Me</i></h3>
 
-- Computer engineering at Federal Rural University of Semiarid.
+- Computer engineer from the federal university of Rio Grande do Norte (UFERSA).
 - Software Engineer developer at Xmod.
 - Software Engineer developer at Acelerabit.
 - Software Engineer developer at Socin.
